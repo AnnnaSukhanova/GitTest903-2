@@ -7,4 +7,6 @@ fun main() {
     mc.doAction()
     val k = a()
     k.tt()
+    val text00 = AnnClass()
+    text00.printMyText()
 }
